@@ -1,5 +1,5 @@
 body{
-  background-color: seashell;
+  background-color: yellow;
   color: green;
   display: flex;
   flex-direction: column;
@@ -21,7 +21,7 @@ img{
    }
 a{
   text-decoration: none;
-  color: rose;
+  color: green;
   text-align: center;
 }
 a:hover{
